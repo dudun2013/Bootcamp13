@@ -1,5 +1,5 @@
 Materi Bootcamp13
 1. SDLC
 2. Concept Web Developer
-    Concept WEb Developer adalah waterfall
     Consep WEb Developer industry adalah Agile
+    Biasa dipake di shopie dan gojeg
